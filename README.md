@@ -13,3 +13,5 @@ Problem Statement: https://leetcode.com/problems/unique-paths-ii/
 Problem Statement: https://leetcode.com/problems/palindrome-number/
 
 ------------------------------------------------------------------
+* Finding Kth Largest Number
+Problem Statement: https://leetcode.com/problems/kth-largest-element-in-an-array/ 
